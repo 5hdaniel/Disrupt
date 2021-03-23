@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/DisruptTheCurve/afcbce7e-cc74-47f4-999f-921fef5c3dab/80b79815-d463-4fe8-b7f6-e8c8c2ff4139/_apis/work/boardbadge/86665fe7-20ae-41d8-a093-b0d24899e7e5)](https://dev.azure.com/DisruptTheCurve/afcbce7e-cc74-47f4-999f-921fef5c3dab/_boards/board/t/80b79815-d463-4fe8-b7f6-e8c8c2ff4139/Microsoft.RequirementCategory)
 # Disrupt
